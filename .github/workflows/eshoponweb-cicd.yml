@@ -9,7 +9,7 @@ env:
   LOCATION: westindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 66ab83d4-4875-4955-99c9-452cfe3f639f
-  WEBAPP-NAME: eshoponweb-webapp-lab
+  WEBAPP-NAME: eshoponweb-webapp-lab1975
 
 
 jobs:
